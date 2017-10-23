@@ -66,7 +66,7 @@
   </header>
 
   <article class="post-content">
-    <p>Oh hello! Let's figure out why your site isn't building -- I'd love to get a bit more information from you here. Let's rule a few things out to start -- are you using GitHub as your source control service? If not, what are you using as your source control tool? Are you seeing any errors when you try to build, and if so, could you send me the output from the deply log in Netlify? If so, could you go to your Deply Log by clicking the site in question from your Netlify dashboard > click on the site in question > click on the most recent <b>Production<b>> then click <b>Copy to clipboard<b> and then send that over to me?</p>
+    <p>Oh hello! Let's figure out why your site isn't building -- I'd love to get a bit more information from you here. Let's rule a few things out to start -- are you using GitHub as your source control service? If not, what are you using as your source control tool? Are you seeing any errors when you try to build, and if so, could you send me the output from the deply log in Netlify? If so, could you go to your Deply Log by clicking the site in question from your Netlify dashboard > click on the site in question > click on the most recent <b>Production</b>> then click <b>Copy to clipboard</b> and then send that over to me?</p>
     <p>I'd like to take a look at what you've tried to build so far. Could send me your URL and share with me what you've tried to post to your site so I can have a look at your data to see if there might be any issues that would prevent your site from building. </p>
     <p>Looking forward to sleuthing this out for you, Betty</p>
     
