@@ -10,12 +10,11 @@
   <title>Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done.
 
 </title>
-  <meta name="description" content="Thoughts on Netlify Experience
-">
+
 
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="http://yourdomain.com/jekyll/update/2015/02/12/welcome-to-jekyll.html">
-  <link rel="alternate" type="application/rss+xml" title="Thoughts on Netlify Experience
+  <link rel="alternate" type="application/rss+xml" title="Provide a link to documentation for a technical/developer-focused product, that you think are well done, and briefly explain why you think they are well done
 " href="http://snuggler.netlify.com" />
 </head>
 
