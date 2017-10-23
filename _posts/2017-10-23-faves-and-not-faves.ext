@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Faves</title>
+  <title></title>
   <meta name="description" content="faves and not so faves">
 
   <link rel="stylesheet" href="/css/main.css">
@@ -22,7 +22,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="/">Faves</a>
+    <a class="site-title" href="/"></a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -36,7 +36,7 @@
       <div class="trigger">
         
           
-          <a class="page-link" href="/about/">About</a>
+     
           
         
           
